@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="frontend/frontend.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="MellivoraPay.AppHost/MellivoraPay.AppHost.csproj" />
+  <Project Path="MellivoraPay.Server/MellivoraPay.Server.csproj" />
+</Solution>
